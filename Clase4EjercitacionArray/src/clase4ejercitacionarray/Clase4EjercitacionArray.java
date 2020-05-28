@@ -31,7 +31,7 @@ public class Clase4EjercitacionArray {
         System.out.println("Son iguales ??? " + Arrays.equals(array1, array2));
 
         System.out.println("ToString " + Arrays.toString(array2));
-
+           
     }
 
 }
